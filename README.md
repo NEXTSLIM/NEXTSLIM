@@ -19,7 +19,7 @@ Experience working with large data sets and has the skill set to support detaile
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nextslim) <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nextslim&repo=github-readme-stats)](https://github.com/nextslim/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nextslim&repo=github-readme-stats)](https://github.com/nextslim/github-readme-stats)
 
 
 
@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
