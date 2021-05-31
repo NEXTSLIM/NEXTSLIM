@@ -1,11 +1,11 @@
 
-### GREETINGS!!
+### ▌GREETINGS!!
 ![Header](https://github.com/NEXTSLIM/NEXTSLIM/blob/main/Readme_Header3.png "Header")
 
 
 
 
-## ABOUT MYSELF:
+## ▌ABOUT MYSELF:
 
 I am curious for all technology. I love learning the new trends and I am passionate to work with data. 
 
@@ -13,7 +13,7 @@ Experience working with large data sets and has the skill set to support detaile
 
 ▌ CHECK MY PAGE!!: https://nextslim.github.io/RenzOnly/
 
-## STATS
+## ▌STATS
 
 ![Renzo's github stats](https://github-readme-stats.vercel.app/api?username=nextslim)<!--(https://github.com/anuraghazra/github-readme-stats)-->
 
