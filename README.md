@@ -18,8 +18,9 @@ Experience working with large data sets and has the skill set to support detaile
 ![Renzo's github stats](https://github-readme-stats.vercel.app/api?username=nextslim)<!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nextslim) <!--(https://github.com/anuraghazra/github-readme-stats)-->
-<!--
-**cmpietro/cmpietro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nextslim-readme-stats)]<!--(https://github.com/anuraghazra/github-readme-stats)
+
 
 Here are some ideas to get you started:
 
