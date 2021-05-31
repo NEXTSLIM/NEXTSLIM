@@ -9,6 +9,7 @@
 I am curious for all technology. I love learning the new trends and I am passionate to work with data. 
 
 Experience working with large data sets and has the skill set to support detailed and efficient analyses.
+
 I am committed to finding solutions in a timely and efficient manner.
 
 ## STATS
