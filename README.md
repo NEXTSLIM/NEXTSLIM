@@ -1,5 +1,5 @@
 
-<p align="center"> ![Header](https://github.com/NEXTSLIM/NEXTSLIM/blob/main/Readme_Header.gif "Header") </p>
+![Header] (https://github.com/NEXTSLIM/NEXTSLIM/blob/main/Readme_Header.gif "Header")
 
 
 ### Greetings programs!! 
