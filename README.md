@@ -6,9 +6,9 @@
 
 ## INTRO
 
-I am Renzo, I am curious for all technology. I love learning the new trends and I am passionate to work in this industry. 
+I am curious for all technology. I love learning the new trends and I am passionate to work with data. 
 
-I love telling stories with data sets. Experience working with large data sets and has the skill set to support detailed and efficient analyses.  
+Experience working with large data sets and has the skill set to support detailed and efficient analyses, who is committed to finding solutions in a timely and efficient manner.
 
 ## STATS
 
