@@ -5,7 +5,7 @@
 
 
 
-## ▌ABOUT MYSELF:https://nextslim.github.io/RenzOnly/
+## ▌ABOUT MYSELF: https://nextslim.github.io/RenzOnly/
 
 I am curious for all technology. I love learning the new trends and I am passionate to work with data. 
 
