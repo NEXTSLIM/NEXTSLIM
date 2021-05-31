@@ -1,5 +1,5 @@
 
-### ▌GREETINGS!!
+### ▌GREETINGS!! /  HELLO THERE" / HOLA" / CIAO"
 ![Header](https://github.com/NEXTSLIM/NEXTSLIM/blob/main/Readme_Header3.png "Header")
 
 
