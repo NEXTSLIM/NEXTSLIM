@@ -1,10 +1,10 @@
 ![Header](https://github.com/NEXTSLIM/NEXTSLIM/blob/main/Readme_Header3.png "Header")
 
 
-### Greetings!! 
+### GREETINGS!!
 
 
-## INTRO
+## ABOUT MYSELF:
 
 I am curious for all technology. I love learning the new trends and I am passionate to work with data. 
 
