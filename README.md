@@ -13,9 +13,10 @@ Experience working with large data sets and has the skill set to support detaile
 
 ## ▌STATS
 
-<a <img align="center" src="https://github-readme-stats.vercel.app/api?username=nextslim" </a> <!--(https://github.com/anuraghazra/github-readme-stats)-->
+![Renzo's github stats](https://github-readme-stats.vercel.app/api?username=nextslim)<!--(https://github.com/anuraghazra/github-readme-stats)-->
 
-<a <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=nextslim" </a> <!--(https://github.com/anuraghazra/github-readme-stats)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nextslim) <!--(https://github.com/anuraghazra/github-readme-stats)-->
+
 <!-- 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nextslim&repo=github-readme-stats)](https://github.com/nextslim/github-readme-stats)
 
